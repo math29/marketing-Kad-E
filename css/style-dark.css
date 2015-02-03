@@ -1,0 +1,49 @@
+/* --------------------------------------
+@Author: ThemeMascot
+@URL: http://themeforest.net/user/ThemeMascot
+
+Dark Background Version
+----------------------------------------- */
+
+.bg-dark, #header.bg-dark .navbar, #footer.bg-dark {
+	background-color: #2a2a2a;
+}
+
+.bg-dark.dark2{
+	background-color: #3f3f3f !important;
+}
+
+#header.bg-dark .navbar li, #header.bg-dark .navbar li a,
+.bg-dark, .bg-dark h1, .bg-dark h2, .bg-dark h3, .bg-dark h4, .bg-dark h5, .bg-dark h6, .bg-dark p, .bg-dark a {
+	color: #fff;
+}
+
+
+/* btn */
+.bg-dark .btn:hover, .bg-dark .btn:focus, .bg-dark .btn.active {
+	background: #fff;
+	color: #2a2a2a;
+	border-color: #fff;
+}
+
+/* icon box */
+.bg-dark .icon-box .triangle-down {
+	border-top-color: #eee;
+}
+
+.bg-dark .icon-box .triangle-down i {
+	color: #333;
+}
+
+.bg-dark .icon-box:hover .triangle-down i {
+	color: #fff;
+}
+
+/* pricing table */
+.bg-dark .pricing-table li {
+	color: #333;
+}
+.bg-dark .pricing-table .btn:hover {
+	background-color: #333;
+	color: #fff;
+}

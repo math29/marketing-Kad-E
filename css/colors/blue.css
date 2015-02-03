@@ -1,0 +1,77 @@
+/* --------------------------------------
+@Author: ThemeMascot
+@URL: http://themeforest.net/user/ThemeMascot
+
+COLOR : Sanmarino Blue 
+COLOR CODE: #00aeff
+----------------------------------------- */
+
+.theme-color-bg {
+	background-color: #00aeff;
+}
+
+/* text selection color */
+*::-moz-selection {
+  background-color: #00aeff;
+}
+ 
+::selection {
+  background-color: #00aeff;
+}
+
+
+/* background-color */
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls .owl-page:hover span, .owl-theme .owl-controls .active span, #features .icon-box .icon i,
+.pricing-table .header i, .pricing-table .btn-signup, 
+.btn-default, .btn-default[disabled], .btn-default[disabled]:focus,
+.section-title h2:after,
+.section-title h2:before,
+.benefits-of-app .icon-box .icon i,
+.how-it-works .icon-box:hover .icon i {
+	background-color: #00aeff;
+}
+
+.color-overlay {
+	background-color: rgba(0, 172, 249, 0.7);
+}
+
+/* text color */ 
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+p.color-text, a, blockquote cite,
+#funfact .icon-box h2, #features .icon-box h4, 
+.btn-home i,
+#header .header-nav > li:hover > a, #header .header-nav > li.current > a,
+#team-line #team-names li a.selected,
+.winning-history i,
+.how-it-works .icon-box .icon i, .how-it-works .icon-box:hover h5 {
+	color: #00aeff;
+}
+
+/* border-color */
+#spinner:before {	
+	border-bottom:8px double #00aeff;
+}
+.bg-dark .icon-box:hover .triangle-down,
+.icon-box:hover .triangle-down,
+.triangle-down.color,
+#footer .footer-social li .triangle-down {
+	border-top-color: #00aeff;
+}
+
+.owl-theme .owl-controls .owl-page span, blockquote, 
+.btn-bordered {
+	border-color: #00aeff;
+}
+
+#features .icon-box .icon i:after{
+	border-color: transparent transparent #00aeff transparent;
+}
+
+/* box-shadow */
+.services-box .box-overlay:hover .icon,
+.benefits-of-app .icon-box:hover .icon i,
+.how-it-works .icon-box:hover .icon i,
+.pricing-table:hover .header i {
+    -webkit-box-shadow: 0px 0px 0px 2px #00aeff;
+            box-shadow: 0px 0px 0px 2px #00aeff;
+}
