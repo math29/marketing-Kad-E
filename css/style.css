@@ -807,7 +807,7 @@ section > .container, section > .container-fluid {
  * -----------------------------------------------
 */
 #header .navbar-brand {
-	padding-top: 20px;
+	/*padding-top: 20px;*/
 	margin-right: 25px;
 }
 
