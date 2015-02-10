@@ -595,6 +595,7 @@ section > .container, section > .container-fluid {
 
 .margin-top-30 {
 	margin-top: 30px !important;
+	margin-left: 100px;
 }
 
 .margin-top-60 {
